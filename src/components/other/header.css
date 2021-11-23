@@ -1,0 +1,19 @@
+.btn-toggle{
+    display: none;
+}
+
+.hum-menu{
+    width: 30px;
+    height: 30px;
+    color: mintcream;
+}
+
+@media (max-width:960px) {
+    .resizable{
+        display: none;
+    }
+
+    .btn-toggle{
+        display: block;
+    }
+}
